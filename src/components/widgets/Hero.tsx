@@ -9,7 +9,7 @@ import { src as placeholder } from "~/assets/images/hero.jpg?width=400&metadata"
 
 export default component$(() => {
   return (
-    <section
+      <section
       class={`bg-gradient-to-b md:bg-gradient-to-r from-white via-purple-50 to-sky-100 dark:bg-none mt-[-72px]`}
     >
       <div class="max-w-6xl mx-auto px-4 sm:px-6 md:flex md:h-screen 2xl:h-auto pt-[72px]">

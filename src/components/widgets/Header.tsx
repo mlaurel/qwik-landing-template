@@ -30,7 +30,7 @@ export default component$(() => {
     >
       <div class="py-3 px-3 mx-auto w-full md:flex md:justify-between max-w-6xl md:px-4">
         <div class="flex justify-between">
-          <a class="flex items-center" href={"/"}>
+                  <a class="flex items-center" href={"/"}>
             <Logo />
           </a>
           <div class="flex items-center md:hidden">
